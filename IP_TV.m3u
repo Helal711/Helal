@@ -1,4 +1,4 @@
-#EXTM3U
+##EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV  (BDWatch)
 http://103.70.140.27:8080/hls/gtv.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla (BDIX0)
